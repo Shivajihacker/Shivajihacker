@@ -2,6 +2,7 @@
 - 👀 I’m interested in hacking
 - 🌱 I’m currently learning hacking
 - 💞️ I’m looking to collaborate on ...
+-     pleas me to learn hacking
 - 📫 How to reach me. my email is shivaahirwar2005@gmail.com
 
 <!---
